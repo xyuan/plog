@@ -1,6 +1,8 @@
 # Plog - portable, simple and extensible C++ logging library
 Pretty powerful logging library in about 1000 lines of code [![Build Status](https://travis-ci.org/SergiusTheBest/plog.svg?branch=master)](https://travis-ci.org/SergiusTheBest/plog) [![Build status](https://ci.appveyor.com/api/projects/status/rna5gwhqjb13wovr/branch/master?svg=true)](https://ci.appveyor.com/project/SergiusTheBest/plog/branch/master) [![CircleCI](https://circleci.com/gh/SergiusTheBest/plog.svg?style=svg)](https://circleci.com/gh/SergiusTheBest/plog)
 
+*This version is released under [MIT license](https://choosealicense.com/licenses/mit) for use cases where [MPL2](http://mozilla.org/MPL/2.0/) doesn't suit.*
+
 - [Introduction](#introduction)
   - [Hello log!](#hello-log)
   - [Features](#features)
@@ -1015,7 +1017,7 @@ There are a number of samples that demonstrate various aspects of using plog. Th
 - [CMake](http://www.cmake.org)
 
 # License
-Plog is licensed under the [MPL version 2.0](http://mozilla.org/MPL/2.0/). You can freely use it in your commercial or opensource software.
+This version of plog is licensed under the [MIT license](https://choosealicense.com/licenses/mit). You can freely use it in your commercial or opensource software.
 
 # Version history
 
